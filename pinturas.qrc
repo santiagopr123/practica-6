@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/estrellas1.jpg</file>
+        <file>imagenes/dom.png</file>
+        <file>imagenes/planeta-tierra.png</file>
+    </qresource>
+</RCC>
